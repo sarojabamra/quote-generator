@@ -13,7 +13,8 @@ body {
 }
 
 #img {
-    width: 50%;
+    
+    align-content: center;
     border: solid white 5px;
 }
 
